@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Almacenamiento De Archivos</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="nombre">Nombre</string>
+    <string name="password">Password</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="ver">Ver</string>
+    <string name="cargar">Cargar</string>
+    <string name="descargar">Descargar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="otro">Otro</string>
+    <string name="texto">Texto</string>
+    <string name="imagen">Imagen</string>
+    <string name="privado">Privado</string>
+    <string name="publico">Publico</string>
+    <string name="maximo_64_kb">Maximo 64 KB</string>
+</resources>
